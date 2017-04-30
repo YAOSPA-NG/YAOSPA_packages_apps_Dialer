@@ -23,4 +23,21 @@
     <string name="incall_vibrate_45_title">Vibrer toutes les minutes</string>
     <string name="incall_vibrate_45_summary">Vibre à la 45ème seconde de chaque minute durant un appel sortant</string>
 
+    <!-- Forward lookup -->
+    <string name="nearby_places">Endroits proches</string>
+    <string name="people">Personnes</string>
+
+    <!-- Number lookup -->
+    <string name="lookup_settings_label">Recherche de numéro de téléphone</string>
+    <string name="lookup_settings_description">Recherche de numéros de téléphone inconnus</string>
+    <string name="enable_forward_lookup_title">Recherche directe</string>
+    <string name="enable_forward_lookup_summary">Affichez les endroits proches lors de la recherche dans le téléphone</string>
+    <string name="enable_people_lookup_title">Recherche de personnes</string>
+    <string name="enable_people_lookup_summary">Affichez les résultats en ligne pour les personnes lors de la recherche dans le téléphone</string>
+    <string name="enable_reverse_lookup_title">Recherche inversée</string>
+    <string name="enable_reverse_lookup_summary">Rechercher les information sur la personnes ou l\'endroit lors d\'appels entrant depuis des numéros inconnus</string>
+    <string name="forward_lookup_provider_title">Fournisseurs de recherche directe</string>
+    <string name="people_lookup_provider_title">Fournisseurs de recherche de personnes</string>
+    <string name="reverse_lookup_provider_title">Fournisseurs de recherche inversée</string>
+
 </resources>

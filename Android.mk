@@ -41,6 +41,8 @@ LOCAL_JAVA_LIBRARIES := telephony-common \
                         telephony-ext \
                         ims-common
 
+LOCAL_ASSET_DIR += $(LOCAL_PATH)/assets
+
 LOCAL_AAPT_FLAGS := \
     --auto-add-overlay \
     --extra-packages android.support.v7.appcompat \
