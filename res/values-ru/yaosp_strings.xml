@@ -40,4 +40,21 @@
     <string name="people_lookup_provider_title">Поставщик имен</string>
     <string name="reverse_lookup_provider_title">Поставщик обратного поиска</string>
 
+    <!--  for speed dial -->
+    <string name="speed_dial_settings">Настройки быстрого набора</string>
+    <string name="speed_dial_not_set">(не установлено)</string>
+    <string name="speed_dial_replace">Заменить</string>
+    <string name="speed_dial_delete">Удалить</string>
+    <string name="speed_dial_unassigned_dialog_title">Кнопка не назначена</string>
+    <string name="speed_dial_unassigned_dialog_message">Быстрый набор не назначен на цифровую кнопку \'<xliff:g id="number">%s</xliff:g>\'. Назначить сейчас?</string>
+    <string name="dialog_speed_dial_airplane_mode_message">Чтобы использовать быстрый набор, сначала выключите режим полета.</string>
+    <string name="speed_dial_can_not_be_set">Для этой кнопки не может быть установлен быстрый набор</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="input_number">Введите номер</string>
+    <string name="speed_dial_cancel">Отмена</string>
+    <string name="speed_dial_ok">OK</string>
+    <string name="call_log_show_all_slots">Все SIM-карты</string>
+    <string name="call_log_all_calls_header">Все звонки</string>
+
 </resources>
