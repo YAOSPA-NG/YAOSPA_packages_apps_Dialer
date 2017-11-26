@@ -40,4 +40,21 @@
     <string name="people_lookup_provider_title">Fournisseurs de recherche de personnes</string>
     <string name="reverse_lookup_provider_title">Fournisseurs de recherche inversée</string>
 
+    <!-- Speed Dial -->
+    <string name="speed_dial_settings">Réglages appels rapides</string>
+    <string name="speed_dial_not_set">(not défini)</string>
+    <string name="speed_dial_replace">Remplacer</string>
+    <string name="speed_dial_delete">Supprimer</string>
+    <string name="speed_dial_unassigned_dialog_title">Bouton non défini</string>
+    <string name="speed_dial_unassigned_dialog_message">Aucun action d\'appel rapide n\'est assignée à la touche \'<xliff:g id="number">%s</xliff:g>\'. Souhaitez-vous en assigner une maintenant ?</string>
+    <string name="dialog_speed_dial_airplane_mode_message">Afin d\'utiliser les appels rapide, merci de bien vouloir désactiver le mode avion.</string>
+    <string name="speed_dial_can_not_be_set">Appel rapide non défini pour cette touche</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="input_number">Saisir numéro</string>
+    <string name="speed_dial_cancel">Annuler</string>
+    <string name="speed_dial_ok">OK</string>
+    <string name="call_log_show_all_slots">Toutes les cartes SIM</string>
+    <string name="call_log_all_calls_header">Tous les appels</string>
+
 </resources>

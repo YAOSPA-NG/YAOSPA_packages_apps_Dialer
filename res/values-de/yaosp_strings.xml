@@ -40,4 +40,21 @@
     <string name="people_lookup_provider_title">Anbieter für Personen-Suche</string>
     <string name="reverse_lookup_provider_title">Anbieter für Rückwerts-Suche</string>
 
+    <!-- Speed Dial -->
+    <string name="speed_dial_settings">Schnellwahl Einstellungen</string>
+    <string name="speed_dial_not_set">(undefiniert)</string>
+    <string name="speed_dial_replace">Ersetzen</string>
+    <string name="speed_dial_delete">Löschen</string>
+    <string name="speed_dial_unassigned_dialog_title">Taste undefiniert</string>
+    <string name="speed_dial_unassigned_dialog_message">Für die Taste \'<xliff:g id="number">%s</xliff:g>\' ist keine Schnellwahl definiert. Möchten Sie jetzt eine zuweisen ?</string>
+    <string name="dialog_speed_dial_airplane_mode_message">Bitt Flugmodus ausschalten um Schnellwahl nutzen zu können.</string>
+    <string name="speed_dial_can_not_be_set">Für diese Taste kann keine Schnellwahl definiert werden</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="input_number">Nummer eingeben</string>
+    <string name="speed_dial_cancel">Abbruch</string>
+    <string name="speed_dial_ok">OK</string>
+    <string name="call_log_show_all_slots">Alle SIM-Karten</string>
+    <string name="call_log_all_calls_header">All Anrufe</string>
+
 </resources>
